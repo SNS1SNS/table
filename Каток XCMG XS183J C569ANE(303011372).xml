@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicle>
+    <id>303011372</id>
+    <terminalType>OMNICOMM</terminalType>
+    <calibrationDate>2025-03-04+03:00</calibrationDate>
+    <profileSource>Omnicomm Autocheck</profileSource>
+    <approximationBufferLength>35</approximationBufferLength>
+    <fillThreshold>150</fillThreshold>
+    <drainThreshold>100</drainThreshold>
+    <dutyConsumptionMillis>100</dutyConsumptionMillis>
+    <motorhourConsumption>0</motorhourConsumption>
+    <mileageConsumption>0</mileageConsumption>
+    <roughFilterLength>25</roughFilterLength>
+    <fineFilterLength>15</fineFilterLength>
+    <fuelAlgorithmType>1</fuelAlgorithmType>
+    <refuelBreakRangeTime>35</refuelBreakRangeTime>
+    <drainBreakRangeTime>35</drainBreakRangeTime>
+    <quartileBreakRangeTime>3600</quartileBreakRangeTime>
+    <fuelOpStartDeviationTime>0</fuelOpStartDeviationTime>
+    <fuelOpEndDeviationTime>0</fuelOpEndDeviationTime>
+    <movementDeviationTime>15</movementDeviationTime>
+    <fuelEventSpeedThreshold>2.0</fuelEventSpeedThreshold>
+    <sensor number="0">
+        <value code="0">0</value>
+        <value code="289">100</value>
+        <value code="437">200</value>
+        <value code="617">300</value>
+        <value code="725">400</value>
+        <value code="863">500</value>
+        <value code="980">600</value>
+        <value code="1134">700</value>
+        <value code="1302">800</value>
+        <value code="1445">900</value>
+        <value code="1575">1000</value>
+        <value code="1706">1100</value>
+        <value code="1803">1200</value>
+        <value code="2003">1300</value>
+        <value code="2140">1400</value>
+        <value code="2235">1500</value>
+        <value code="2347">1600</value>
+        <value code="2472">1700</value>
+        <value code="2601">1800</value>
+        <value code="2721">1900</value>
+        <value code="2827">2000</value>
+        <value code="2952">2100</value>
+        <value code="3055">2200</value>
+        <value code="3167">2300</value>
+        <value code="3298">2400</value>
+        <value code="3399">2500</value>
+        <value code="3526">2600</value>
+        <value code="3624">2700</value>
+        <value code="3739">2800</value>
+        <value code="4095">2900</value>
+        <tankNmb>1</tankNmb>
+    </sensor>
+    <registrationNumber>Каток XCMG XS183J C569ANE</registrationNumber>
+    <phone>+77064639186</phone>
+    <garageNumber></garageNumber>
+    <model></model>
+    <brand></brand>
+    <function></function>
+    <categories/>
+    <comment>ТОО ЭЛИТСТРОЙКОМПЛЕКТ 
+
+Нет доступа к СУН</comment>
+    <rpmInputType>2</rpmInputType>
+    <rpmCoef>100000</rpmCoef>
+    <rpmCritical>5500</rpmCritical>
+    <rpmIdling>1000</rpmIdling>
+    <speedCoef>0</speedCoef>
+    <speedSource>6</speedSource>
+    <maximalSpeed>60.0</maximalSpeed>
+    <traceStanding>true</traceStanding>
+    <standingDuration>300</standingDuration>
+    <traceStopping>true</traceStopping>
+    <stoppingDuration>60</stoppingDuration>
+    <applyIgnition>false</applyIgnition>
+    <noValidDataDuration>8</noValidDataDuration>
+    <mileageDrift>20</mileageDrift>
+    <distanceDrift>20</distanceDrift>
+    <objectType>FAS</objectType>
+    <levToConnLocal>1</levToConnLocal>
+    <timeoutToConnHome>2</timeoutToConnHome>
+    <roamingConnMode>0</roamingConnMode>
+    <timeoutToConnRoaming>5</timeoutToConnRoaming>
+    <dataSizeToConnRoaming>100</dataSizeToConnRoaming>
+    <levToConnRoaming>30</levToConnRoaming>
+    <timeOutConn>10080</timeOutConn>
+    <tmrPeriod>15</tmrPeriod>
+    <alwaysActive>0</alwaysActive>
+    <turnInputPullUp>false</turnInputPullUp>
+    <sirenTurnOn>false</sirenTurnOn>
+    <speedInputType>false</speedInputType>
+    <speedInputRange>2</speedInputRange>
+    <speedInputPullUp>false</speedInputPullUp>
+    <serverIp>185.9.185.40</serverIp>
+    <serverPort>9977</serverPort>
+    <apn></apn>
+    <sensorsCount>1</sensorsCount>
+    <filterLength>120</filterLength>
+    <manufactureId>20303011372</manufactureId>
+    <inputMode>0</inputMode>
+    <univInputsCount>0</univInputsCount>
+    <useAlarm>false</useAlarm>
+    <transmitSpeedToLLD>false</transmitSpeedToLLD>
+    <useAccelerator>true</useAccelerator>
+    <accelerationCoef>1.0</accelerationCoef>
+    <useCAN>false</useCAN>
+    <useRPS>false</useRPS>
+    <useDiscreteOutput>false</useDiscreteOutput>
+    <mileageCoef>1.0</mileageCoef>
+    <dutyMileagePerLitre>0.0</dutyMileagePerLitre>
+    <seasonFuelCoef>1.0</seasonFuelCoef>
+    <useIQFreeze>false</useIQFreeze>
+    <iqFreezeTempThresholdUp>1</iqFreezeTempThresholdUp>
+    <iqFreezeTempThresholdDown>1</iqFreezeTempThresholdDown>
+    <iqFreezeTimeNoData>15</iqFreezeTimeNoData>
+    <useTpms>false</useTpms>
+    <tpmsTimeNoData>15</tpmsTimeNoData>
+    <vehicleTpms>
+        <pressureNorm>800</pressureNorm>
+        <pressureDelta>80</pressureDelta>
+        <temperatureMax>60</temperatureMax>
+        <wheels>1,2</wheels>
+    </vehicleTpms>
+    <vehicleTpms>
+        <pressureNorm>800</pressureNorm>
+        <pressureDelta>80</pressureDelta>
+        <temperatureMax>60</temperatureMax>
+        <wheels>3,4</wheels>
+    </vehicleTpms>
+    <safeDrivingEventsOn>false</safeDrivingEventsOn>
+    <limitSpeed>120.0</limitSpeed>
+    <speedSensitivity>2.0</speedSensitivity>
+    <allowableSpeedInTurning>30.0</allowableSpeedInTurning>
+    <limitSpeedInTurning>50.0</limitSpeedInTurning>
+    <minVerticalAccelerationDuration>10</minVerticalAccelerationDuration>
+    <rpmGreenzoneLow>1000</rpmGreenzoneLow>
+    <rpmGreenzoneHigh>4000</rpmGreenzoneHigh>
+    <maxIdleRpmDuration>45</maxIdleRpmDuration>
+    <minEngineTemp>80</minEngineTemp>
+    <maxEngineTemp>95</maxEngineTemp>
+    <maxNoGreenZoneDuration>45</maxNoGreenZoneDuration>
+    <tempSensors>
+        <tempSensor num="1">
+            <label>Темп. датчик №1</label>
+        </tempSensor>
+        <tempSensor num="2">
+            <label>Темп. датчик №2</label>
+        </tempSensor>
+        <tempSensor num="3">
+            <label>Темп. датчик №3</label>
+        </tempSensor>
+        <tempSensor num="4">
+            <label>Темп. датчик №4</label>
+        </tempSensor>
+        <tempSensor num="5">
+            <label>Темп. датчик №5</label>
+        </tempSensor>
+        <tempSensor num="6">
+            <label>Темп. датчик №6</label>
+        </tempSensor>
+        <tempSensor num="7">
+            <label>Темп. датчик №7</label>
+        </tempSensor>
+        <tempSensor num="8">
+            <label>Темп. датчик №8</label>
+        </tempSensor>
+    </tempSensors>
+    <color></color>
+    <manufactureYear></manufactureYear>
+    <vin></vin>
+    <engineNumber></engineNumber>
+    <chassisNumber></chassisNumber>
+    <registrationPlate></registrationPlate>
+    <engineManufacturer></engineManufacturer>
+    <engineModel></engineModel>
+    <enginePower></enginePower>
+    <vehiclePassport></vehiclePassport>
+    <vehicleRegistrationCertificate></vehicleRegistrationCertificate>
+    <leaseAgreementNumber></leaseAgreementNumber>
+    <exportToDatamart>false</exportToDatamart>
+    <traceEngineSpeed>false</traceEngineSpeed>
+    <traceEngineSpeedThreshold>0</traceEngineSpeedThreshold>
+    <traceAdditionalEquipment>false</traceAdditionalEquipment>
+    <traceAdditionalEquipmentEventTypeId>0</traceAdditionalEquipmentEventTypeId>
+</vehicle>

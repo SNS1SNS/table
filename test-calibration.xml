@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle>
+  <calibrationDate>2025-01-15</calibrationDate>
+  <sensor number="0">
+    <value code="0">0</value>
+    <value code="289">100</value>
+    <value code="437">200</value>
+    <value code="617">300</value>
+    <value code="725">400</value>
+    <value code="863">500</value>
+    <value code="980">600</value>
+    <value code="1134">700</value>
+    <value code="1302">800</value>
+    <value code="1445">900</value>
+    <value code="1575">1000</value>
+  </sensor>
+</vehicle> 
